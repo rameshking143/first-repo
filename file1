@@ -1,6 +1,9 @@
 this is the test file for first attempt
 this is new data adding to the file1
 now we will see the difference and what will show in our git log comment and git status command
+<<<<<<< HEAD
 
 this line is midifing in second time
 now see how its shows in git status command
+=======
+>>>>>>> 91f5d7cdef8ebf24584ebbc5f7f386f45d352eeb
